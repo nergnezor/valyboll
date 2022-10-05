@@ -6,8 +6,9 @@ render = /defold-rive/lua/rive.renderc
 shared_state = 1
 
 [display]
-width = 960
-height = 640
+width = 1000
+height = 1000
+fullscreen = 0
 
 [android]
 input_method = HiddenInputField
